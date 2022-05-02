@@ -1,0 +1,14 @@
+{
+    "name": "oberonlai/ods-wordpress-plugin-boilerplate",
+    "require": {
+        "a7/autoload": "^2.1",
+        "wpackio/enqueue": "^3.4"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "oberonlai",
+            "email": "m615926@gmail.com"
+        }
+    ]
+}
